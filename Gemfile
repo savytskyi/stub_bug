@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'rake'
+gem 'bubble-wrap'
+gem 'motion-cocoapods'
+gem 'motion-testflight'
+gem 'sugarcube'
+gem 'afmotion'
+gem 'teacup'
+gem 'ProMotion'
+gem 'awesome_print_motion'
